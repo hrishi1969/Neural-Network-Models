@@ -13,5 +13,6 @@ References used:
 
 4.https://www.mygreatlearning.com/blog/types-of-neural-networks/
 
+The code was done on Google colab 
 
-   
+Link: https://colab.research.google.com/drive/1dzqyjjsFjd00gkiTHdTbs60q_FCyXMy3?usp=sharing
