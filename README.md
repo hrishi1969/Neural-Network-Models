@@ -4,6 +4,7 @@ This project aims to compare multiple models built and trained to classify Covid
 Dataset link: https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
 
 References used:
+
 1.https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568
 
 2.https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
